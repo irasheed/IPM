@@ -1,0 +1,350 @@
+[
+    [
+        "/Users/irasheed/sfdx/IPM/force-app",
+        {
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555527425222,
+            "changeTime": 1555527425222,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main",
+        {
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555527425222,
+            "changeTime": 1555527425222,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1555529741947,
+            "changeTime": 1555529741947,
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1555527425222,
+            "changeTime": 1555527425222,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1555527425222,
+            "changeTime": 1555527425222,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM",
+        {
+            "sourcePath": "/Users/irasheed/sfdx/IPM",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1555528869326,
+            "changeTime": 1555528869326,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/Invoice__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/Invoice__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2059,
+            "modifiedTime": 1555529741932,
+            "changeTime": 1555529741932,
+            "contentHash": "9cd4cc054b26d68f5acc29edfa07040db1e573d8"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/fields/Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/fields/Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1555529741932,
+            "changeTime": 1555529741932,
+            "contentHash": "b8581b1abf41f675a0a452bcbc752f389914b3f1"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1555529741933,
+            "changeTime": 1555529741933,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/layouts/Invoice__c-Invoice Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/layouts/Invoice__c-Invoice Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2087,
+            "modifiedTime": 1555529741938,
+            "changeTime": 1555529741938,
+            "contentHash": "b6725cdc10b4b15b0a94bd43fa7f327207eef076"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/flexipages/Invoice_app_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/flexipages/Invoice_app_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1555529741940,
+            "changeTime": 1555529741940,
+            "contentHash": "d744e3bc3c7a2f81f74785b5fe81ef11f5fde5da"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/tabs/Invoice__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/tabs/Invoice__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1555529741942,
+            "changeTime": 1555529741942,
+            "contentHash": "ddeae5eadbf9e422cad0188d1418fd25bc244096"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/applications/Invoice_app.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/applications/Invoice_app.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 606,
+            "modifiedTime": 1555529741943,
+            "changeTime": 1555529741943,
+            "contentHash": "8438f13134aca9a7da046a1418172be44d974bc1"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5332,
+            "modifiedTime": 1555529741948,
+            "changeTime": 1555529741948,
+            "contentHash": "dbca949ac8cccaddfe6a2e7b09f3f3728b65ee67"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19470,
+            "modifiedTime": 1555529741962,
+            "changeTime": 1555529741962,
+            "contentHash": "29ddeb0002720f9c5ffea61a8741b751ff855382"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4994,
+            "modifiedTime": 1555529741966,
+            "changeTime": 1555529741966,
+            "contentHash": "919a63c3992ee31ef955e91f7429331de0026c38"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4994,
+            "modifiedTime": 1555529741969,
+            "changeTime": 1555529741969,
+            "contentHash": "919a63c3992ee31ef955e91f7429331de0026c38"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1555529741932,
+            "changeTime": 1555529741932,
+            "contentHash": "a2b94818a121f0558d994dc003b101091fd7bbd7"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555529741929,
+            "changeTime": 1555529741929,
+            "contentHash": "db5baa0535b85f996178fc5983816e7c1e704f5b"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555529741932,
+            "changeTime": 1555529741932,
+            "contentHash": "035e7999824b4151e234b40fdaba318deda699b6"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/objects/Invoice__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555529741933,
+            "changeTime": 1555529741933,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555529741938,
+            "changeTime": 1555529741938,
+            "contentHash": "945b89b6d1152dcfdc6c543c941af8d588d7bf02"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555529741940,
+            "changeTime": 1555529741940,
+            "contentHash": "2d68cd7077fa53a6e64cebfc1cedbb70f8577fac"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555529741942,
+            "changeTime": 1555529741942,
+            "contentHash": "ef673863314e68461adebd9dceb9c75e3bf41174"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555529741943,
+            "changeTime": 1555529741943,
+            "contentHash": "7556a1f632ed9d70393b0d1316590c891c87b03c"
+        }
+    ],
+    [
+        "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/irasheed/sfdx/IPM/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1555529741969,
+            "changeTime": 1555529741969,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
